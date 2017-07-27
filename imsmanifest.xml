@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5oueWCzugTZ_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">PL for Team Sport Coaches_Module 1_Intro to Physical Literacy</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="PL_for_Team_Sport_Coaches_Module_1_Intro_to_Physical_Literacy_ORG">
+    <organization identifier="PL_for_Team_Sport_Coaches_Module_1_Intro_to_Physical_Literacy_ORG">
+      <title>PL for Team Sport Coaches_Module 1_Intro to Physical Literacy</title>
+      <item identifier="PL_for_Team_Sport_Coaches_Module_1_Intro_to_Physical_Literacy_SCO" isvisible="true" identifierref="__5oueWCzugTZ_course_id_RES">
+        <title>PL for Team Sport Coaches_Module 1_Intro to Physical Literacy</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5oueWCzugTZ_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/Slide5bqOWpz2qBK.swf" />
+      <file href="story_content/5gJ1Elozfck_22050_48.mp3" />
+      <file href="story_content/6nvJV9zj9Tw_22050_48.mp3" />
+      <file href="story_content/5stx2zZuwI3_22050_48.mp3" />
+      <file href="story_content/5cvbslF88MS_22050_48.mp3" />
+      <file href="story_content/6EAvq3Ub14o_80_DX550_DY550.jpg" />
+      <file href="mobile/6EAvq3Ub14o_80_DX550_DY550_CX275_CY183.jpg" />
+      <file href="story_content/6KiebN3Yjyk_22050_48.mp3" />
+      <file href="story_content/5UgUwCdaIMy_80_DX1108_DY1108.jpg" />
+      <file href="mobile/5UgUwCdaIMy_80_DX1108_DY1108_CX554_CY368.jpg" />
+      <file href="story_content/5tQ8ZXUAfL3_22050_48.mp3" />
+      <file href="story_content/5gXJJ0PiItv_80_DX516_DY516.jpg" />
+      <file href="mobile/5gXJJ0PiItv_80_DX516_DY516_CX258_CY182.jpg" />
+      <file href="story_content/60muy19EDOd_80_DX520_DY520.jpg" />
+      <file href="mobile/60muy19EDOd_80_DX520_DY520_CX260_CY188.jpg" />
+      <file href="story_content/67VRACguQWq_80_DX528_DY528.jpg" />
+      <file href="mobile/67VRACguQWq_80_DX528_DY528_CX264_CY176.jpg" />
+      <file href="story_content/5qmZesvuyvS_80_DX544_DY544.jpg" />
+      <file href="mobile/5qmZesvuyvS_80_DX544_DY544_CX272_CY176.jpg" />
+      <file href="story_content/6ZjaNgWr0Zr_22050_48.mp3" />
+      <file href="story_content/6f7nj83BpuR_22050_48.mp3" />
+      <file href="story_content/6nYf3xGoGxV_22050_48.mp3" />
+      <file href="story_content/6GZ49yFqOno_22050_48.mp3" />
+      <file href="meta.xml" />
+      <file href="mobile/5YoYJU1cPY5.png" />
+      <file href="story_content/logo.swf" />
+      <file href="story_content/6FBphMPR71A.png" />
+      <file href="story_content/frame.xml" />
+      <file href="story_content/frame.js" />
+      <file href="story_content/user.js" />
+      <file href="story_content/external_files/Intro_to_Physical_Literacy_Monograph_for_PL_for_Team_Sport_Coaches_Microcredential.pdf" />
+      <file href="mobile/app_store.png" />
+      <file href="mobile/mobile_icon.png" />
+      <file href="mobile/linen_background.jpg" />
+      <file href="story_unsupported.html" />
+      <file href="mobile/Slide5bqOWpz2qBK.jpg" />
+      <file href="mobile/player.css" />
+      <file href="mobile/player_compiled.js" />
+      <file href="story_content/FontFactory.swf" />
+      <file href="story_content/fonts.swf" />
+      <file href="story_content/fonts.xml" />
+      <file href="mobile/fonts.js" />
+      <file href="story.swf" />
+      <file href="story_content/frame.swf" />
+      <file href="story_content/slides/6gaU5B1SwO9.swf" />
+      <file href="story_content/slides/64c29yPFF68.swf" />
+      <file href="story_content/slides/6mIEWg30V75.swf" />
+      <file href="story_content/slides/5yxtaqIvKoF.swf" />
+      <file href="story_content/slides/6oJEYLrYFJi.swf" />
+      <file href="story_content/slides/5g40Gwh8tYk.swf" />
+      <file href="story_content/slides/6jb2dkdw4e9.swf" />
+      <file href="story_content/slides/6ni8c5KHtpr.swf" />
+      <file href="mobile/slides/6gaU5B1SwO9.gz" />
+      <file href="story_content/slides/6pb527xRZF8.swf" />
+      <file href="story_content/slides/5v1t0ZDF94I.swf" />
+      <file href="mobile/slides/64c29yPFF68.gz" />
+      <file href="mobile/slides/6mIEWg30V75.gz" />
+      <file href="mobile/slides/5yxtaqIvKoF.gz" />
+      <file href="mobile/slides/6oJEYLrYFJi.gz" />
+      <file href="mobile/slides/5g40Gwh8tYk.gz" />
+      <file href="mobile/slides/6jb2dkdw4e9.gz" />
+      <file href="mobile/slides/6pb527xRZF8.gz" />
+      <file href="mobile/slides/5v1t0ZDF94I.gz" />
+      <file href="mobile/slides/6ni8c5KHtpr.gz" />
+      <file href="mobile/slides/6mIEWg30V75.js" />
+      <file href="mobile/slides/6gaU5B1SwO9.js" />
+      <file href="mobile/slides/6ni8c5KHtpr.js" />
+      <file href="mobile/slides/6pb527xRZF8.js" />
+      <file href="mobile/slides/64c29yPFF68.js" />
+      <file href="mobile/slides/5yxtaqIvKoF.js" />
+      <file href="mobile/slides/5g40Gwh8tYk.js" />
+      <file href="mobile/slides/6jb2dkdw4e9.js" />
+      <file href="mobile/slides/6oJEYLrYFJi.js" />
+      <file href="mobile/slides/5v1t0ZDF94I.js" />
+      <file href="story_content/data.swf" />
+      <file href="mobile/data.gz" />
+      <file href="mobile/data.js" />
+      <file href="mobile/masks.js" />
+      <file href="story.html" />
+      <file href="story_html5.html" />
+      <file href="index_lms_html5.html" />
+      <file href="story_content/blank.html" />
+      <file href="story_content/story.js" />
+      <file href="amplaunch.html" />
+      <file href="mobile/mobileinstall.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/AICCFunctions.js" />
+      <file href="lms/API.js" />
+      <file href="lms/APIConstants.js" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/Configuration.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/lms.js" />
+      <file href="lms/LMSAPI.js" />
+      <file href="lms/NONEFunctions.js" />
+      <file href="lms/SCORM2004Functions.js" />
+      <file href="lms/SCORMFunctions.js" />
+      <file href="lms/UtilityFunctions.js" />
+    </resource>
+  </resources>
+</manifest>
